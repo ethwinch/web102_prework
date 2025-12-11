@@ -1,32 +1,35 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - Motherlode
 
-Submitted by: **Your Name Here**
+Submitted by: Ethan Winch
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+Motherlode is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: 3 hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-* [ ] The introduction section explains the background of the company and how many games remain unfunded.
-* [ ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-* [ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-* [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+* [✅] The introduction section explains the background of the company and how many games remain unfunded.
+* [✅] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
+* [✅] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
+* [✅] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [✅] Aesthetic improvements such as text centering, box shadows on buttons and div elements, and padding.
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='../Web_Walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<!--
+<iframe src="https://drive.google.com/file/d/1V8U6sWviWrOLDH96cb9CrISjLMxFzVDO/preview" style="width:100%; height:600px; border:0;"></iframe>
+-->
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with ezgif.com
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -34,11 +37,12 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Challenges encountered while building the app:
+- implementing destructuring and the spread operator
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2025 Ethan Winch
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
