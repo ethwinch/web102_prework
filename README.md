@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='../Web_Walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='Web_Walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 <!--
 <iframe src="https://drive.google.com/file/d/1V8U6sWviWrOLDH96cb9CrISjLMxFzVDO/preview" style="width:100%; height:600px; border:0;"></iframe>
 -->
